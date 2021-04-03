@@ -3,20 +3,20 @@ intro:
   title: Front end developer
   avatar:
     display: true
-    path: profile.png
+    path: profile.jpg
 
 contact:
   email: victorhm7@protonmail.com
-  phone: +55-17-98188-0772
-  whatsapp: +5517991135791
+  phone: +55(17)98188-0772
+  whatsapp: +55(17)99113-5791
   telegram:
   website: vh.dev.br
   medium:
-  linkedin:
+  linkedin: victor-hugo-malcauskas-0952b1194
   github: victorhm7
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: victorhm7
   stackoverflow:
   quora:
   goodreads:
@@ -29,14 +29,24 @@ languages:
       level: Native
     - idiom: English
       level: Professional
+    - idiom: English
+      level: Elementary
 
 interests:
   display: true
   title: Interests
   items:
-    - item: Reading
+    - item: Technology
       link:
     - item: Aviation
+      link:
+    - item: Mechanics
+      link:
+    - item: DIY
+      link:
+    - item: Foreign cultures
+      link:
+    - item: Driving and travel
       link:
 
 profile:
