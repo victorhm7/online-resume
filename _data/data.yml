@@ -56,12 +56,12 @@ profile:
     A versatile, analytical and hard-working IT consultant, with a practical 
     “get the things done right” approach, who always perseveres to achieve the 
     best results. Passionate about the research of solutions. Highly experienced
-     in a company workflow process, such as management and execution.
+     in Companies Workflow Processes, such as management and execution.
     + System Analyst (4 years)
     + Quality Analyst (2 years)
     + Lead Support Technician (2 years)
     + Project Manager (1 year)
-    + Accountant assistant (5 years)
+    + Accountant Assistant (5 years)
 
 education:
   display: true
@@ -76,17 +76,17 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.09 - 2019.03
+    - role: Full Stack Developer
+      time: 2018.09 - 2020.03
       company: Comprefrota Serviços de Informação
       tag:
       location: Tanabi, Brazil
       details: |
         Experience in this company:
-        + First
-        + Second
+        + SEO improvement and migration to Laravel Framework
+        + IT consultant support for all companies of the group. I made system analyses for ERP Implementation and AWS Cloud migration.
 
-    - role: Backend Developer
+    - role: Quality
       time: 2017.03 - 2018.03
       company: First Company
       tag: Remote, part-time
