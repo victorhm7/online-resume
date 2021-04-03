@@ -1,6 +1,6 @@
 intro:
   name: Victor Hugo Malcauskas da Silva
-  title: Front end developer
+  title: IT Consultant
   avatar:
     display: true
     path: profile.jpg
@@ -53,53 +53,38 @@ profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
+    A versatile, analytical and hard-working IT consultant, with a practical 
+    “get the things done right” approach, who always perseveres to achieve the 
+    best results. Passionate about the research of solutions. Highly experienced
+     in a company workflow process, such as management and execution.
+    + System Analyst (4 years)
+    + Quality Analyst (2 years)
+    + Lead Support Technician (2 years)
+    + Project Manager (1 year)
+    + Accountant assistant (5 years)
 
 education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
+    - university: Faeca Dom Bosco de Monte Aprazivel
+      time: 2010 - 2013 (incomplete)
+      major: Bachelor of Administration
       degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
 
 experiences:
   display: true
   title: Experiences
   items:
     - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+      time: 2018.09 - 2019.03
+      company: Comprefrota Serviços de Informação
       tag:
-      location: Beijing
+      location: Tanabi, Brazil
       details: |
         Experience in this company:
         + First
         + Second
-
-        ...
 
     - role: Backend Developer
       time: 2017.03 - 2018.03
