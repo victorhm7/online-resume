@@ -79,67 +79,45 @@ experiences:
     - role: Full Stack Developer
       time: 2018.09 - 2020.03
       company: Comprefrota Serviços de Informação
-      tag:
+      tag: co-working with Estt Brasil and Muito Participações
       location: Tanabi, Brazil
       details: |
         Experience in this company:
-        + SEO improvement and migration to Laravel Framework
+        + SEO improvement and migration to Laravel framework
         + IT consultant support for all companies of the group. I made system analyses for ERP Implementation and AWS Cloud migration.
 
-    - role: Quality
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: QA Analyst/Support Technician
+      time: 2009.01 - 2012.01
+      company: Legítima Rio Preto Informática
+      tag:
+      location: São José do Rio Preto - SP
       details: |
         Experience in this company:
-        + First
-        + Second
-
-        ...
-
-projects:
-  display: true
-  title: Projects
-  intro: |
-    This is all the projects I'm involved in.
-
-  items:
-    - name: Foo
-      link: https://www.google.com
-      details: |
-        Project Foo's detail, you can write markdown format text.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
-
-publications:
-  display: true
-  title: Publications
-  intro: |
-    This is all the books I wrote.
-
-  items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
+        + Initially as a support technician, later a Software Quality Department
+         was added, where I worked exclusively for software improvement.
 
 skills:
   display: true
   title: Skills
   details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
+    I've worked/implemented this listed technologies:
+    + Javascript, Typescript, React, Vue (1 year)
+    + HTML, CSS, Sass (1,5 years)
+    + API Rest/Restful (1.5 years)
+    + Node.js, Next.js (1.5 years)
+    + Docker (1,5 years)
+    + Kubernetes (1 year)
+    + Lavarel (1 year)
+    + Linux, SSH (1.5 years)
+    + AWS (1,5 years)
+    + Nginx (1,5 years)
+    + MySQL/MariaDB (4 years)
+    + MongoDB (1.5 years)
+    + Microsoft SQL Server (4 years)
+    + Delphi/Pascal (1.5 years)
+    + Scrum (3 years)
+    + Figma (1.5 years)
+    + Locaweb, Kinghost, Cloudflare, Vercel, Firebase (2 years)
 
 evaluation:
   display: true
