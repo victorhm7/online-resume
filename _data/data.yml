@@ -91,7 +91,7 @@ experiences:
   display: true
   title: Experiences
   items:
-  - role: System Analyst
+    - role: System Analyst
       time: 2021.04 - present
       company: Newm Desenvolvimento Mobile
       location: Sao Jose do Rio Preto, Brazil
