@@ -91,6 +91,14 @@ experiences:
   display: true
   title: Experiences
   items:
+  - role: System Analyst
+      time: 2021.04 - present
+      company: Newm Desenvolvimento Mobile
+      location: Sao Jose do Rio Preto, Brazil
+      details: |
+        Experience in this company:
+        + Complete system analysis. From initial contact with customers, through time estimate, documentation and infrastructure, to knowledge sharing for development team, building the best environment for implementation and time save.
+        
     - role: Full Stack Developer
       time: 2018.09 - 2020.03
       company: Comprefrota Serviços de Informação
